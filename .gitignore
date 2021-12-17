@@ -130,5 +130,6 @@ dmypy.json
 
 #custom .gitignore
 .vscode
-.png
-.json
+*.png
+*.json
+*.ipynb
