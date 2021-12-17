@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#custom .gitignore
+.vscode
+*.png
+*.json
+*.ipynb
